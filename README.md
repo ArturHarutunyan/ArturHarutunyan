@@ -1,23 +1,65 @@
-<h1 align="center">Hi 👋, I'm Artur Harutyunyan</h1>
-<h3 align="center">A senior full stack developer from Armenia</h3>
+## Artur Harutyunyan
 
-- 🌱 I’m currently learning **AI, TensorFlow**
+**Engineering Leader | CTO | AI Systems**
 
-- 👨‍💻 All of my projects are available at [https://harutyunyan.me](https://harutyunyan.me)
-
-- 💬 Ask me about **React, Django, Laravel**
-
-- 📫 How to reach me **artur@harutyunyan.me**
-
-- 📄 Know about my experiences [https://harutyunyan.me/CV.pdf](https://harutyunyan.me/CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artur-harutunyan-795127125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-harutunyan-795127125" height="30" width="40" /></a>
-<a href="https://fb.com/artur.harutunyan.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artur.harutunyan.3" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/harutyunyan__art/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harutyunyan__art/" height="30" width="40" /></a>
+<p>
+  <a href="https://harutyunyan.me"><img alt="Website" src="https://img.shields.io/badge/Website-harutyunyan.me-111111?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/artur-harutunyan-795127125"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Artur%20Harutyunyan-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:artur@harutyunyan.me"><img alt="Email" src="https://img.shields.io/badge/Email-artur%40harutyunyan.me-333333?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-6D4AFF?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build backend/platform systems for enterprise products: reliable services, data flows, and automation at scale.  
+Current focus: **AI agents/workflows** that reduce operational load and accelerate finance/FP&A teams in fintech-style environments.  
+I care about pragmatic architecture, measurable reliability, and clean delivery pipelines.
+
+### Now
+
+- **AI Automation Architect / Tech Lead @ SoftConstruct**
+- **Previously**: Staff Engineer @ DataRails · Lead @ Zorion · CTO @ Neen
+
+### I can help with
+
+- **Architecture & systems design**: backend/platform architecture, microservices boundaries, service contracts
+- **Enterprise reliability**: observability, incident response, performance, capacity planning
+- **Delivery & platform**: CI/CD, infrastructure automation, developer experience
+- **Data systems**: event-driven patterns, OLTP/analytics, integrations
+- **AI-driven workflow automation**: agents/orchestration, tool use, guardrails, human-in-the-loop flows
+
+### Tech (grouped)
+
+- **Backend/APIs**: Python, Django, FastAPI, GraphQL
+- **Data**: PostgreSQL, Redis, MongoDB, eventing/queues
+- **Platform**: AWS, Docker, Linux, CI/CD
+- **Frontend**: React, TypeScript
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-222222?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+### CV (quick view)
+
+If you prefer scanning before downloading, here’s a preview of the PDF:
+
+[![CV preview](cv/CV_preview.png)](https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf)
+
+### Links
+
+- **Website**: [harutyunyan.me](https://harutyunyan.me)
+- **LinkedIn**: [artur-harutunyan-795127125](https://linkedin.com/in/artur-harutunyan-795127125)
+- **Email**: `artur@harutyunyan.me`
+- **CV (always current)**: [Download PDF](https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf)
+- **Other**: [Facebook](https://fb.com/artur.harutunyan.3) · [Instagram](https://www.instagram.com/harutyunyan__art/)
+
+### About / topics (for GitHub “About”)
+
+**Description hint**: Engineering Leader/CTO focused on AI automation + backend/platform systems (fintech/FP&A, reliability at scale).  
+**Suggested topics**: `python`, `django`, `fastapi`, `microservices`, `graphql`, `hasura`, `ai-automation`, `devops`, `fintech`, `fp&a`, `datastores`
 
