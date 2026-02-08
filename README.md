@@ -53,10 +53,10 @@ If you prefer scanning before downloading, here’s a preview of the PDF:
 ### Links
 
 - **Website**: [harutyunyan.me](https://harutyunyan.me)
-- **LinkedIn**: [artur-harutunyan-795127125](https://linkedin.com/in/artur-harutunyan-795127125)
+- **LinkedIn**: [artur-harutunyan](https://www.linkedin.com/in/artur-h-795127125/)
 - **Email**: `artur@harutyunyan.me`
 - **CV (always current)**: [Download PDF](https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf)
-- **Other**: [Facebook](https://fb.com/artur.harutunyan.3) · [Instagram](https://www.instagram.com/harutyunyan__art/)
+- **Other**:  [Instagram](https://www.instagram.com/harutyunyan__art/)
 
 ### About / topics (for GitHub “About”)
 
