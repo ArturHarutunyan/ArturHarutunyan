@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://harutyunyan.me"><img alt="Website" src="https://img.shields.io/badge/Website-harutyunyan.me-111111?style=flat&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/artur-harutunyan-795127125"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Artur%20Harutyunyan-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harutyunyanme"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Artur%20Harutyunyan-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:artur@harutyunyan.me"><img alt="Email" src="https://img.shields.io/badge/Email-artur%40harutyunyan.me-333333?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-6D4AFF?style=flat&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
@@ -53,7 +53,7 @@ If you prefer scanning before downloading, here’s a preview of the PDF:
 ### Links
 
 - **Website**: [harutyunyan.me](https://harutyunyan.me)
-- **LinkedIn**: [artur-harutunyan](https://www.linkedin.com/in/artur-h-795127125/)
+- **LinkedIn**: [harutyunyanme](https://www.linkedin.com/in/harutyunyanme)
 - **Email**: `artur@harutyunyan.me`
 - **CV (always current)**: [Download PDF](https://raw.githubusercontent.com/ArturHarutunyan/ArturHarutunyan/main/cv/Artur_Harutyunyan_CV.pdf)
 - **Other**:  [Instagram](https://www.instagram.com/harutyunyan__art/)
